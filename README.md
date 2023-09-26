@@ -50,4 +50,4 @@ iv. Enjoy exploring the ATM functionality and features.
 ## 🔗 Links
 Reach out on my LinkedIn Profile
 
-[![linkedin Yash Raj ](https://www.linkedin.com/in/rajyash)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajyash/)
