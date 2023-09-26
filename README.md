@@ -1,4 +1,3 @@
-# ATM-SIMULATOR-System
 # ATM Simulator System
 
 The ATM Simulator system is a Java-based software project that simulates the functionality of an Automated Teller Machine (ATM) using Java, JDBC (Java Database Connectivity), and MySQL for database management. This project aims to provide a realistic and interactive experience for users to perform common ATM operations, such as:  
@@ -51,4 +50,6 @@ iv. Enjoy exploring the ATM functionality and features.
 ## 🔗 Links
 Reach out on my LinkedIn Profile
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansh-tripathi-264157206/)
+[![linkedin Yash Raj ](https://www.linkedin.com/in/rajyash/)
+[![linkedin Suyasha Jain ](https://www.linkedin.com/in/suyashajain/)
+[![linkedin Shreyansh Tripathi ](https://www.linkedin.com/in/shreyansh-tripathi-264157206/)
