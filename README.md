@@ -34,7 +34,7 @@ vii.  Mini Statement
 i. DATABASE SYSYTEM: This includes the usage of Structured Query Language i..e, SQL. It is mainly used for storing  the credentials and the data of user.
 
 
-ii. JAVA(SWING): This covers the frontend and the interface of the projects and JDBC(Java Database Connectivity).
+ii. JAVA(SWING): This covers the front end and the interface of the projects and JDBC(Java Database Connectivity).
 ## Usage
 i. Launch the ATM Simulator System.
 
@@ -50,6 +50,4 @@ iv. Enjoy exploring the ATM functionality and features.
 ## 🔗 Links
 Reach out on my LinkedIn Profile
 
-[![linkedin Yash Raj ](https://www.linkedin.com/in/rajyash/)
-[![linkedin Suyasha Jain ](https://www.linkedin.com/in/suyashajain/)
-[![linkedin Shreyansh Tripathi ](https://www.linkedin.com/in/shreyansh-tripathi-264157206/)
+[![linkedin Yash Raj ](https://www.linkedin.com/in/rajyash)
